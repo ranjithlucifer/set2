@@ -1,5 +1,5 @@
 n,m=list(map(int,input().split()))
-for i in range(n,m+1):
+for i in range(n,m):
     a=len(str(i))
     c=0
     b=i
